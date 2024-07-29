@@ -1,5 +1,5 @@
 .decoration {
-  position: absolute;
+  position: fixed;
   top: 60%;
   background-color: hsl(195deg, 20%, 86%);
   margin-left: auto;
